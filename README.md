@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm Jason Chica
 
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-2-blue?style=flat-square)](https://github.com/jchica-0?tab=repositories)
-[![Followers](https://img.shields.io/badge/Followers-0-blue?style=flat-square)](https://github.com/jchica-0?tab=followers)
+[![Hackathons](https://img.shields.io/badge/Hackathons-1-brightgreen?style=flat-square)](https://github.com/jchica-0)
 
 ## About
 I'm a student at Texas A&M University, passionate about technology and innovation. I recently joined the GitHub community and I'm excited to start my journey in open source development!
